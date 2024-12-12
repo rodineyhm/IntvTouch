@@ -15,7 +15,7 @@ Firmware CircuitPython
 Imagens BMP dos overlays na pasta bmp nomeados com 3 digitos.
 Botão de pressão do joystick para modo de Pausa e para novo overlay (3 digitos e Enter)
 
-[![Veja o tutorial no YouTube](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![Veja no YouTube](https://img.youtube.com/vi/FjTe33QmZQY/0.jpg)](https://youtu.be/FjTe33QmZQY)
 
 Resumo das conexões:
 
