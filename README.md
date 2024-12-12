@@ -1,5 +1,5 @@
 # IntvTouch
-** Protótipo controle para console Intellivision com direcional analógico e overlay na tela touch**
+**Protótipo controle para console Intellivision com direcional analógico e overlay na tela touch**
 
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/001.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/002.jpg)
@@ -148,7 +148,7 @@ A definir
 Acionamento:
 				Pino DB								
 		Seq		1	2	3	4	5	6	7	8	9
-Disco	1	1	0	1	0	0	T	0	0	0	0
+Disco		1	1	0	1	0	0	T	0	0	0	0
 		2	2	0	1	0	0	T	0	0	0	1
 		3	3	0	1	1	0	T	0	0	0	1
 		4	4	0	1	1	0	T	0	0	0	0
@@ -164,7 +164,7 @@ Disco	1	1	0	1	0	0	T	0	0	0	0
 		14	14	1	0	0	0	T	0	0	0	1
 		15	15	1	1	0	0	T	0	0	0	1
 		16	16	1	1	0	0	T	0	0	0	0
-Teclado	0	17	1	0	0	0	T	0	1	0	0
+Teclado		0	17	1	0	0	0	T	0	1	0	0
 		1	18	0	0	0	1	T	1	0	0	0
 		2	19	0	0	0	1	T	0	1	0	0
 		3	20	0	0	0	1	T	0	0	1	0
@@ -176,10 +176,10 @@ Teclado	0	17	1	0	0	0	T	0	1	0	0
 		9	26	0	1	0	0	T	0	0	1	0
 		C	27	1	0	0	0	T	1	0	0	0
 		E	28	1	0	0	0	T	0	0	1	0
-Botão	1	29	0	0	0	0	T	1	0	1	0
+Botão		1	29	0	0	0	0	T	1	0	1	0
 		2	30	0	0	0	0	T	0	1	1	0
 		3	31	0	0	0	0	T	1	1	0	0
-Pause		91	0	1	0	1	T	1	0	1	0
+Pause			91	0	1	0	1	T	1	0	1	0
 
 
 
