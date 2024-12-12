@@ -8,7 +8,7 @@
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/005.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/006.jpg)
 
-Este é um projeto não comercial, disponível para você construir o seu e, se puder, colaborar na melhoria desse desenvolvimento.
+O projeto, sem fins comerciais, esta aberto para você construir o seu e, se puder, colaborar na melhoria desse desenvolvimento.
 
 Baseado no hardware: Clone **Purple** da Raspberry Pi PICO RP2040, Display ILI9341 + XPT2046 (Touchscreen), Analógico direcional de 2 eixos e Optoacoplador.
 Firmware CircuitPython
