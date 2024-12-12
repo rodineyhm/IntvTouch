@@ -40,7 +40,7 @@ Resumo das conexões:
 Conector Intv Flashback:
 A definir
 
-Acionamento:
+**Acionamento**
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/Pinos_Sinais.jpg)
 
 
