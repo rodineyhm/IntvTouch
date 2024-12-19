@@ -1,6 +1,8 @@
 # IntvTouch
 **Protótipo controle para console Intellivision com direcional analógico e overlay na tela touch**
 
+Versão: 0.12
+
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/001.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/002.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/003.jpg)
