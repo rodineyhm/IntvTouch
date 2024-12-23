@@ -1,14 +1,17 @@
 # IntvTouch
 **Protótipo controle para console Intellivision com direcional analógico e overlay na tela touch**
 
-Versão: 0.12
+Versão: 0.90
 
-![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/001.jpg)
-![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/002.jpg)
-![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/003.jpg)
-![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/004.jpg)
-![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/005.jpg)
-![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/006.jpg)
+Agora com suporte para saída USB para emuladores, player 1 e player 2,
+e menu de seleção de overlay com nomes de arquivos livres.
+
+**Vídeo no Youtube:**
+
+[![Veja no YouTube](https://img.youtube.com/vi/E4J67_oy-kw/0.jpg)](https://youtu.be/E4J67_oy-kw)
+
+
+Versão: 0.12
 
 O projeto, sem fins comerciais, esta aberto para você construir o seu e, se puder, colaborar na melhoria desse desenvolvimento.
 
@@ -17,9 +20,19 @@ Firmware CircuitPython
 Imagens BMP dos overlays na pasta bmp nomeados com 3 digitos.
 Botão de pressão do joystick para modo de Pausa e para novo overlay (3 digitos e Enter)
 
+![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/001.jpg)
+
+
 **Vídeo no Youtube:**
 
 [![Veja no YouTube](https://img.youtube.com/vi/FjTe33QmZQY/0.jpg)](https://youtu.be/FjTe33QmZQY)
+
+
+![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/002.jpg)
+![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/003.jpg)
+![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/004.jpg)
+![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/005.jpg)
+![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/006.jpg)
 
 Resumo das conexões:
 
