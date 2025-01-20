@@ -1,5 +1,18 @@
 # IntvTouch
-**Protótipo controle para console Intellivision com direcional analógico e overlay na tela touch**
+**Protótipo controle para console e emulador Intellivision com direcional analógico e overlay na tela touch**
+
+Versão final, pré-lançamento
+
+![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/final.jpg)
+
+**Vídeo no Youtube:**
+
+[![Veja no YouTube](https://img.youtube.com/vi/a9IfyRDWwZY/0.jpg)](https://youtu.be/a9IfyRDWwZY)
+
+Information about license of use:
+This version is free for individual personal use, as long as it is not for commercial purposes and credits are attributed.
+Replication for personal or commercial use of the pre-release or release version is prohibited, unless expressly authorized by the author.
+
 
 Versão: 0.90
 
@@ -60,12 +73,3 @@ A definir
 **Acionamento**
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/Pinos_Sinais.jpg)
 
-
-
-**Lista de melhorias planejadas:**
-- Alimentação com pilhas ou bateria recarregável
-- Placa PCB
-- Gabinete 3D
-- Acionamento do direcional com alavanca, disco rotativo intercambiáveis
-- Saída USB para emuladores
-- Listagem de títulos para seleção do overlay
