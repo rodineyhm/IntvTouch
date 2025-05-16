@@ -1,15 +1,23 @@
 # IntvTouch
 **Intellivision Touch, controlador para console e emulador Intellivision com direcional analógico e overlay na tela touch**
+
 **Intellivision Touch, controller for console and Intellivision emulator with analog stick and overlay on the touch screen**
 
 A versão comercial foi lançada em março de 2025, disponível no parceiro abcnetgames.com.br.
+
 The commercial version was released in March 2025, available at the partner abcnetgames.com.br.
 
 ![ScreenShot](https://raw.githubusercontent.com/rodineyhm/IntvTouch/main/Pictures/Todos.jpg)
 
+Intellivision Touch Available now
+
 [![Veja no YouTube](https://img.youtube.com/vi/XqhcIi7sJF4/0.jpg)](https://youtu.be/XqhcIi7sJF4)
 
+Intellivision Touch Controller Video User Manual Version 1.06
+
 [![Veja no YouTube](https://img.youtube.com/vi/ugPp8pVRMoM/0.jpg)](https://youtu.be/ugPp8pVRMoM)
+
+Intellivision Touch Controller Version 110 Update
 
 [![Veja no YouTube](https://img.youtube.com/vi/3Wk6yGoCM5Y/0.jpg)](https://youtu.be/3Wk6yGoCM5Y)
 
